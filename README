@@ -1,0 +1,10 @@
+This is a fork of https://github.com/EmirXK/bad_apple and it is a
+recreation of Bad Apple!! using ASCII. The only thing I've taken
+from the original project is the FrameData.lz which I used for the
+frames.
+
+I thought it would be nice to play Bad Apple!! on my terminal using
+Ruby which is one of the languages I know most about. I inverted the
+terminal color so it would display inverted (and more accurately to
+the original video). I also added some extra data when loading so you
+know it is loading properly.
